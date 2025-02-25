@@ -1,0 +1,1 @@
+from semopy.inspector import inspect
